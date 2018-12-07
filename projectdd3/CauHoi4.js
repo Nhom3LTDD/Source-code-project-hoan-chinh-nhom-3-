@@ -67,7 +67,7 @@ export default class CauHoi4 extends React.Component {
         <Button
           title="Quay lại"
           color="yellow"
-          onPress={() => this.props.navigation.navigate('GoiCau')}
+          onPress={() => this.props.navigation.navigate('CauHoi3')}
         />
         
       </View>
